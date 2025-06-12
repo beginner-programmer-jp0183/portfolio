@@ -8,7 +8,7 @@ phpQueryライブラリの最新バージョンは2009年以降更新がされ�
 リポジトリ内のphpQueryも2024年2月に修正して以降、メンテナンス行っていないため、動作しない可能性があります。  
 
 ## PHP7以上でphpQueryを使用するための準備
-Phttps://qiita.com/katafuchix/items/dc08cbb604e58575df02
+https://qiita.com/katafuchix/items/dc08cbb604e58575df02
 
   
 ## phpQueryのURL  
