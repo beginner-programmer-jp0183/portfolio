@@ -103,8 +103,8 @@ function dashboard_widget_scrape_function_scrape() {
                 // 各div内の最初の<a>タグのhref属性を取得
                 $check_link = $pqdiv->find('a')->attr('href');
 
-                // URLが"hogehoge1かhogehoge2で始まる場合のみ配列に追加
-                if (strpos($check_link, "https://hogehoge1") === false || strpos($check_link, "http://hogehoge2") === false) {
+                // URLが"hogehogeかhogehoge2で始まる場合のみ配列に追加
+                if (strpos($check_link, "https://test1") === false || strpos($check_link, "http://test2") === false) {
                     $link = $check_link;
                 }
                 
